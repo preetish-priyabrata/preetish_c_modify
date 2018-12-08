@@ -1,0 +1,597 @@
+[29-Mar-2018 14:23:36 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 11
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Notice:  Undefined variable: start_date in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 92
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Notice:  Undefined variable: end_date in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 97
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 129
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Notice:  Undefined variable: GET_INFO in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 132
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Warning:  mysqli_query(): Empty query in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 132
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 134
+[29-Mar-2018 14:23:43 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[29-Mar-2018 14:23:52 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[29-Mar-2018 14:23:52 Asia/Calcutta] PHP Notice:  Undefined index: slno in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 14
+[29-Mar-2018 14:23:52 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:52 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:52 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:52 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Notice:  Undefined variable: months in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_edit.php on line 75
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Notice:  Undefined variable: res1 in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_edit.php on line 321
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Notice:  Undefined variable: res1 in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_edit.php on line 322
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Notice:  Undefined variable: res1 in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_edit.php on line 323
+[29-Mar-2018 14:23:55 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[29-Mar-2018 14:24:17 Asia/Calcutta] PHP Notice:  Array to string conversion in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_edit_Save.php on line 67
+[29-Mar-2018 14:24:17 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[29-Mar-2018 14:24:21 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_view.php on line 11
+[29-Mar-2018 14:24:21 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:24:21 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_view.php on line 89
+[29-Mar-2018 14:24:21 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[29-Mar-2018 14:24:28 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[29-Mar-2018 14:24:28 Asia/Calcutta] PHP Notice:  Undefined index: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_view.php on line 13
+[29-Mar-2018 14:24:28 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[29-Mar-2018 14:24:28 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:24:28 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:24:28 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 11
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Notice:  Undefined variable: start_date in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 92
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Notice:  Undefined variable: end_date in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 97
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 129
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Notice:  Undefined variable: GET_INFO in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 132
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Warning:  mysqli_query(): Empty query in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 132
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 134
+[29-Mar-2018 14:27:38 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[29-Mar-2018 09:29:49 UTC] PHP Notice:  Undefined index: meo_user in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_NGTKO_instruction_search.php on line 5
+[09-Apr-2018 12:46:43 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[09-Apr-2018 12:46:54 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[09-Apr-2018 12:46:54 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[09-Apr-2018 12:47:01 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[09-Apr-2018 12:47:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[09-Apr-2018 12:47:01 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[09-Apr-2018 12:47:01 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[09-Apr-2018 12:47:01 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[09-Apr-2018 12:47:01 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[09-Apr-2018 12:47:01 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[09-Apr-2018 12:47:09 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[09-Apr-2018 12:47:09 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[09-Apr-2018 12:47:09 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[09-Apr-2018 12:47:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[09-Apr-2018 12:47:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[09-Apr-2018 12:47:19 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[09-Apr-2018 12:47:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[09-Apr-2018 12:47:33 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[09-Apr-2018 12:47:38 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_report_get_information1.php on line 6
+[09-Apr-2018 12:47:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[09-Apr-2018 12:47:38 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_report_get_information1.php on line 20
+[09-Apr-2018 12:47:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[09-Apr-2018 12:47:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[09-Apr-2018 12:47:44 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_report_crp.php on line 183
+[09-Apr-2018 12:47:44 Asia/Calcutta] PHP Notice:  Undefined variable: sql_get_detail in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_report_crp.php on line 258
+[09-Apr-2018 12:47:44 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_report_crp.php on line 258
+[09-Apr-2018 12:47:44 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[09-Apr-2018 12:48:31 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[17-Apr-2018 13:23:56 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[17-Apr-2018 13:24:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[17-Apr-2018 13:24:07 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[17-Apr-2018 13:24:22 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[17-Apr-2018 13:24:22 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[17-Apr-2018 13:24:28 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[17-Apr-2018 13:24:28 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[17-Apr-2018 13:24:28 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:28 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:28 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:28 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:28 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[17-Apr-2018 13:24:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[17-Apr-2018 13:24:39 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[17-Apr-2018 13:24:48 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[17-Apr-2018 13:24:48 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[17-Apr-2018 13:24:48 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[17-Apr-2018 13:24:57 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[17-Apr-2018 13:24:57 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[17-Apr-2018 13:24:57 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:57 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:57 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:57 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:24:57 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[17-Apr-2018 13:25:05 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[17-Apr-2018 13:25:05 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[17-Apr-2018 13:25:05 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:32:50 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:32:51 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:32:51 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:33:03 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 10
+[06-Jun-2018 17:33:03 Asia/Calcutta] PHP Notice:  Undefined variable: x_month in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 54
+[06-Jun-2018 17:33:03 Asia/Calcutta] PHP Notice:  Undefined variable: year in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 54
+[06-Jun-2018 17:33:03 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:33:03 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 184
+[06-Jun-2018 17:33:03 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:33:14 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[06-Jun-2018 17:33:14 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:33:14 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:33:14 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:33:14 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:33:14 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:33:14 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:33:41 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:33:41 Asia/Calcutta] PHP Notice:  Undefined variable: year in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 54
+[06-Jun-2018 17:33:41 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:33:41 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:33:41 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:33:41 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:33:41 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:33:41 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:34:13 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:34:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:34:19 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:34:23 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[06-Jun-2018 17:34:23 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:34:23 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:23 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:23 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:23 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:23 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:34:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:34:33 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:34:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:34:38 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:34:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:34:39 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:34:46 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[06-Jun-2018 17:34:46 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:34:46 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:46 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:46 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:46 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:46 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:51 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 10
+[06-Jun-2018 17:34:51 Asia/Calcutta] PHP Notice:  Undefined variable: x_month in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 54
+[06-Jun-2018 17:34:51 Asia/Calcutta] PHP Notice:  Undefined variable: year in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 54
+[06-Jun-2018 17:34:51 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:34:51 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 184
+[06-Jun-2018 17:34:51 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:34:55 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[06-Jun-2018 17:34:55 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:34:55 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:55 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:55 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:55 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:34:55 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[06-Jun-2018 17:35:06 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:35:06 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:35:06 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:35:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:35:07 Asia/Calcutta] PHP Notice:  Undefined variable: year in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training1.php on line 54
+[06-Jun-2018 17:35:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:35:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:35:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:35:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:35:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:35:07 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:35:18 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:35:18 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:37:14 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 10
+[06-Jun-2018 17:37:14 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:37:14 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 166
+[06-Jun-2018 17:37:14 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:37:19 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[06-Jun-2018 17:37:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:37:19 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:37:19 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:37:19 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:37:19 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:37:19 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:37:34 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:37:34 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:37:34 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:37:34 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:37:34 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:37:34 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:37:34 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:38:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:38:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:07 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:38:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:38:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:38:50 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:39:17 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:39:30 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 10
+[06-Jun-2018 17:39:30 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:39:30 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 166
+[06-Jun-2018 17:39:30 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:39:35 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[06-Jun-2018 17:39:35 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:39:35 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:39:35 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:39:35 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:39:35 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:39:35 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:39:59 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:39:59 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:39:59 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:39:59 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:39:59 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:39:59 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:39:59 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:40:11 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:40:11 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:11 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:11 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:11 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:11 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:11 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:40:20 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:40:20 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:20 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:20 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:20 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:20 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:40:20 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:41:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:41:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:41:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:41:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:41:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:41:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:41:01 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 12:12:03 UTC] PHP Notice:  Undefined index: meo_user in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 4
+[06-Jun-2018 17:44:30 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:44:30 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:44:30 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:44:30 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:44:30 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:44:30 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:44:30 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:46:45 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 10
+[06-Jun-2018 17:46:45 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:46:45 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 166
+[06-Jun-2018 17:46:45 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:46:50 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[06-Jun-2018 17:46:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:46:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:46:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:46:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:46:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:46:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[06-Jun-2018 17:47:07 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 10
+[06-Jun-2018 17:47:07 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:07 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 166
+[06-Jun-2018 17:47:07 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:47:17 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:47:17 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:17 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:17 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:17 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:17 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:17 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:47:46 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:47:46 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:46 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:46 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:46 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:46 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:47:46 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:48:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:48:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:01 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:01 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:48:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:48:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:48:50 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:49:25 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:49:25 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:25 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:25 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:25 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:25 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:25 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:49:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:49:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:33 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:49:33 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:50:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:50:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:50:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:50:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:50:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:50:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:50:44 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[06-Jun-2018 17:51:05 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[06-Jun-2018 17:51:05 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:51:05 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:51:05 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:51:05 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:51:05 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[06-Jun-2018 17:51:05 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 14:02:13 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 14:02:28 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 10
+[07-Jun-2018 14:02:28 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:02:28 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 166
+[07-Jun-2018 14:02:28 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 14:02:32 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[07-Jun-2018 14:02:32 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 14:02:32 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:02:32 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:02:32 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:02:32 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:02:32 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:02:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 14:02:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:02:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:02:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:02:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:02:38 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:02:38 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 14:23:44 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 10
+[07-Jun-2018 14:23:44 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:23:44 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 166
+[07-Jun-2018 14:23:44 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 14:23:50 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[07-Jun-2018 14:23:50 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 14:23:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:23:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:23:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:23:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:23:50 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 14:23:56 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 14:23:56 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:23:56 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:23:56 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:23:56 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:23:56 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 14:23:56 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 09:39:33 UTC] PHP Notice:  Undefined index: meo_user in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 4
+[07-Jun-2018 15:09:55 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 15:10:02 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 10
+[07-Jun-2018 15:10:02 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:10:02 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 166
+[07-Jun-2018 15:10:02 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 15:10:08 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[07-Jun-2018 15:10:08 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 15:10:08 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 15:10:08 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 15:10:08 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 15:10:08 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 15:10:08 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[07-Jun-2018 15:10:18 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 15:10:18 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:10:18 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:10:18 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:10:18 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:10:18 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:10:18 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 15:15:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 15:15:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:15:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:15:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:15:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:15:39 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:15:39 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 15:19:57 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 15:19:57 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:19:57 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:19:57 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:19:57 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:19:57 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:19:57 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 15:37:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_decrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 14
+[07-Jun-2018 15:37:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:37:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:37:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:37:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:37:19 Asia/Calcutta] PHP Deprecated:  Function mcrypt_encrypt() is deprecated in /home/tarinaodisha2017/public_html/care_final/config_file/config.php on line 8
+[07-Jun-2018 15:37:19 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[07-Jun-2018 15:37:32 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[09-Jun-2018 14:48:24 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[12-Jun-2018 15:42:36 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[13-Jun-2018 13:07:19 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[13-Jun-2018 13:15:27 Asia/Calcutta] PHP Notice:  Undefined index: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_farmland_raw.php on line 13
+[13-Jun-2018 13:15:27 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_farmland_raw.php on line 155
+[13-Jun-2018 13:15:27 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[13-Jun-2018 11:37:47 UTC] PHP Notice:  Undefined index: meo_user in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_farmland_raw.php on line 6
+[13-Jun-2018 17:08:12 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[13-Jun-2018 17:08:23 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[13-Jun-2018 17:08:51 Asia/Calcutta] PHP Notice:  Undefined index: employee_id in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis1.php on line 17
+[13-Jun-2018 17:08:51 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[13-Jun-2018 17:09:30 Asia/Calcutta] PHP Notice:  Undefined index: employee_id in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis1.php on line 17
+[13-Jun-2018 17:09:30 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[13-Jun-2018 17:09:44 Asia/Calcutta] PHP Notice:  Undefined index: employee_id in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis1.php on line 17
+[13-Jun-2018 17:09:44 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:49:43 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:49:52 Asia/Calcutta] PHP Notice:  Undefined index: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_farmland_raw.php on line 13
+[15-Jun-2018 12:49:52 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_farmland_raw.php on line 155
+[15-Jun-2018 12:49:52 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:49:56 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[15-Jun-2018 12:49:56 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:49:56 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:49:56 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:49:56 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:49:56 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:50:32 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:50:49 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:50:56 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:51:02 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:51:11 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 10
+[15-Jun-2018 12:51:11 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_training_raw.php on line 166
+[15-Jun-2018 12:51:11 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:51:38 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[15-Jun-2018 12:51:38 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:51:38 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:51:38 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:51:38 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:51:38 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 12:51:46 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:52:08 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:52:37 Asia/Calcutta] PHP Notice:  Undefined index: employee_id in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis1.php on line 17
+[15-Jun-2018 12:52:37 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:53:08 Asia/Calcutta] PHP Notice:  Undefined index: employee_id in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis1.php on line 17
+[15-Jun-2018 12:53:08 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:53:37 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:53:37 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:53:54 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:53:54 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:53:54 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:54:40 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:54:40 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:54:40 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:55:23 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:55:23 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:55:23 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:55:40 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:55:40 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:55:41 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:56:05 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:56:05 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:56:05 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:56:16 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:56:16 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:56:16 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:56:25 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:56:25 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:56:25 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:56:32 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:56:32 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:56:32 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:56:44 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:56:44 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:56:44 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:56:51 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 12:56:51 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 12:56:51 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 69
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 81
+[15-Jun-2018 12:56:58 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:57:14 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 81
+[15-Jun-2018 12:57:14 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:57:41 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 81
+[15-Jun-2018 12:57:41 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:58:13 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 81
+[15-Jun-2018 12:58:13 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:58:28 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis3.php on line 81
+[15-Jun-2018 12:58:28 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:58:35 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Undefined index: thematic_interventions in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 14
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Use of undefined constant care_thi_thematic_name - assumed 'care_thi_thematic_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis4.php on line 198
+[15-Jun-2018 12:58:55 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:00:27 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:05:46 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:05:58 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:06:05 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 13:06:05 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:06:16 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 13:06:16 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 13:06:16 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:06:31 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 13:06:31 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 13:06:31 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:07:05 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 13:07:05 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 13:07:05 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:07:14 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 13:07:14 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 13:07:14 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:07:24 Asia/Calcutta] PHP Notice:  Undefined index: GP in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 14
+[15-Jun-2018 13:07:24 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis2.php on line 66
+[15-Jun-2018 13:07:24 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:07:36 Asia/Calcutta] PHP Notice:  Undefined index: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training.php on line 13
+[15-Jun-2018 13:07:36 Asia/Calcutta] PHP Notice:  Undefined variable: form_type in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_training_info_training.php on line 170
+[15-Jun-2018 13:07:36 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:07:44 Asia/Calcutta] PHP Notice:  Undefined index: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_farmland_raw.php on line 13
+[15-Jun-2018 13:07:44 Asia/Calcutta] PHP Notice:  Undefined variable: form_types in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_farmland_raw.php on line 155
+[15-Jun-2018 13:07:44 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[15-Jun-2018 13:07:48 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 6
+[15-Jun-2018 13:07:48 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 13:07:48 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 13:07:48 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 13:07:48 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 13:07:48 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_MT_get_information.php on line 20
+[15-Jun-2018 13:08:02 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:22:24 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:22:42 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:22:51 Asia/Calcutta] PHP Notice:  Use of undefined constant care_vlg_name - assumed 'care_vlg_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis12.php on line 207
+[19-Jun-2018 15:22:51 Asia/Calcutta] PHP Notice:  Use of undefined constant care_vlg_name - assumed 'care_vlg_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis12.php on line 207
+[19-Jun-2018 15:22:51 Asia/Calcutta] PHP Notice:  Use of undefined constant care_vlg_name - assumed 'care_vlg_name' in /home/tarinaodisha2017/public_html/care_final/MEO_user/report_analysis12.php on line 207
+[19-Jun-2018 15:22:51 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:57:19 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:57:23 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:57:26 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[19-Jun-2018 15:57:26 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[19-Jun-2018 15:57:26 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[19-Jun-2018 15:57:26 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[19-Jun-2018 15:57:26 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[19-Jun-2018 15:57:32 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 221
+[19-Jun-2018 15:57:32 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 263
+[19-Jun-2018 15:57:32 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 304
+[19-Jun-2018 15:57:32 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 345
+[19-Jun-2018 15:57:32 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 380
+[19-Jun-2018 15:57:32 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 418
+[19-Jun-2018 15:57:32 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 498
+[19-Jun-2018 15:57:32 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:57:38 Asia/Calcutta] PHP Notice:  Undefined variable: care_hhi_slno in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_crop_info_crop.php on line 102
+[19-Jun-2018 15:57:38 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 10:28:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_update_comments.php on line 2
+[19-Jun-2018 15:58:52 Asia/Calcutta] PHP Notice:  Undefined index: comments_mt in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_update_comments.php on line 20
+[19-Jun-2018 15:58:53 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:59:00 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:59:03 Asia/Calcutta] PHP Notice:  Undefined index: web_district_ids in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 6
+[19-Jun-2018 15:59:03 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[19-Jun-2018 15:59:03 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[19-Jun-2018 15:59:03 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[19-Jun-2018 15:59:03 Asia/Calcutta] PHP Notice:  Undefined variable: village in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_get_information.php on line 20
+[19-Jun-2018 15:59:09 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 221
+[19-Jun-2018 15:59:09 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 263
+[19-Jun-2018 15:59:09 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 304
+[19-Jun-2018 15:59:09 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 345
+[19-Jun-2018 15:59:09 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 380
+[19-Jun-2018 15:59:09 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 418
+[19-Jun-2018 15:59:09 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, boolean given in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_hhi_get_hhi.php on line 498
+[19-Jun-2018 15:59:09 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[19-Jun-2018 15:59:15 Asia/Calcutta] PHP Notice:  Undefined variable: care_hhi_slno in /home/tarinaodisha2017/public_html/care_final/MEO_user/MEO_crop_info_crop1.php on line 119
+[19-Jun-2018 15:59:15 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[20-Sep-2018 17:35:16 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[20-Sep-2018 17:58:49 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[20-Sep-2018 17:59:58 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
+[20-Sep-2018 18:34:35 Asia/Calcutta] PHP Notice:  Undefined index: admin_name in /home/tarinaodisha2017/public_html/care_final/MEO_user/template/side_menu.php on line 31
